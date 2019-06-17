@@ -1,0 +1,29 @@
+.small-logo {
+    width: 60px;
+    height: 60px;
+}
+
+a {
+    color: black
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title-main {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+.navbar-main {
+    font-family: 'Courier New', Courier, monospace;
+    border: solid darkgrey 1px;
+    border-radius: 7px;
+    margin: 10px;
+}
+
+.big-logo-container {
+    text-align: center;
+}
